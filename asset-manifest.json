@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/resume/static/css/main.e03b27f2.css",
-    "main.js": "/resume/static/js/main.59956414.js",
+    "main.js": "/resume/static/js/main.24c790ab.js",
     "static/js/787.883ba16e.chunk.js": "/resume/static/js/787.883ba16e.chunk.js",
     "static/media/VilniusCathedralSquare.jpg": "/resume/static/media/VilniusCathedralSquare.acd7b641f003c0fc21f0.jpg",
     "static/media/pic.jpg": "/resume/static/media/pic.37a5e4f363ad32152895.jpg",
@@ -12,11 +12,11 @@
     "static/media/teva.svg": "/resume/static/media/teva.ae2bb2b4a886b9d7f8abc2531cc1ee4f.svg",
     "index.html": "/resume/index.html",
     "main.e03b27f2.css.map": "/resume/static/css/main.e03b27f2.css.map",
-    "main.59956414.js.map": "/resume/static/js/main.59956414.js.map",
+    "main.24c790ab.js.map": "/resume/static/js/main.24c790ab.js.map",
     "787.883ba16e.chunk.js.map": "/resume/static/js/787.883ba16e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e03b27f2.css",
-    "static/js/main.59956414.js"
+    "static/js/main.24c790ab.js"
   ]
 }
